@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "workspaces": [
+    "./theme",
+    "./template"
+  ],
+  "scripts": {
+    "build": "nuxt build template",
+    "dev": "nuxt dev template",
+    "generate": "nuxt generate template",
+    "preview": "nuxt preview template"
+  }
+}
