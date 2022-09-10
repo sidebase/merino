@@ -1,5 +1,5 @@
 import { defineNuxtConfig } from 'nuxt'
 
 export default defineNuxtConfig({
-  extends: '../theme' // TODO
+  theme: 'my-nuxt-theme',
 })
